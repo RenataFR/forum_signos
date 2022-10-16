@@ -1,0 +1,149 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+
+<signos>
+
+	<signo>
+
+		<dataInicio>21/03</dataInicio>
+
+		<dataFim>19/04</dataFim>
+
+		<signoNome>Áries</signoNome>
+
+		<descricao>Elemento: Fogo (Energia e Paixão), Carcterística: Determinação</descricao>
+
+	</signo>
+
+	<signo>
+
+		<dataInicio>20/04</dataInicio>
+
+		<dataFim>20/05</dataFim>
+
+		<signoNome>Touro</signoNome>
+
+		<descricao>Elemento: Terra (Sensatez e Praticidade), Carcterística: Confiança</descricao>
+
+	</signo>
+
+	<signo>
+
+		<dataInicio>21/05</dataInicio>
+
+		<dataFim>21/06</dataFim>
+
+		<signoNome>Gêmemos</signoNome>
+
+		<descricao>Elemento: Ar (Razão e Objetividade), Carcterística: Comunicação</descricao>
+
+	</signo>
+
+	<signo>
+
+		<dataInicio>23/06</dataInicio>
+
+		<dataFim>22/07</dataFim>
+
+		<signoNome>Câncer</signoNome>
+
+		<descricao>Elemento: Àgua (Emoção e Misticismo), Carcterística: Sensibilidade</descricao>
+
+	</signo>
+
+	<signo>
+
+		<dataInicio>23/07</dataInicio>
+
+		<dataFim>22/08</dataFim>
+
+		<signoNome>Leão</signoNome>
+
+		<descricao>Elemento: Fogo (Energia e Paixão), Carcterística: Coragem</descricao>
+
+	</signo>
+
+	<signo>
+
+		<dataInicio>23/08</dataInicio>
+
+		<dataFim>22/09</dataFim>
+
+		<signoNome>Virgem</signoNome>
+
+		<descricao>Elemento: Terra (Sensatez e Praticidade), Carcterística: Disciplina</descricao>
+
+	</signo>
+
+	<signo>
+
+		<dataInicio>23/09</dataInicio>
+
+		<dataFim>22/10</dataFim>
+
+		<signoNome>Libra</signoNome>
+
+		<descricao>Elemento: Ar (Razão e Objetividade), Carcterística: Diplomacia</descricao>
+
+	</signo>
+
+	<signo>
+
+		<dataInicio>23/10</dataInicio>
+
+		<dataFim>22/11</dataFim>
+
+		<signoNome>Escorpião</signoNome>
+
+		<descricao>Elemento: Àgua (Emoção e Misticismo), Carcterística: Intensidade</descricao>
+
+	</signo>
+
+	<signo>
+
+		<dataInicio>23/11</dataInicio>
+
+		<dataFim>22/12</dataFim>
+
+		<signoNome>Sagitario</signoNome>
+
+		<descricao>Elemento: Fogo (Energia e Paixão), Carcterística: Otimismo</descricao>
+
+	</signo>
+
+	<signo>
+
+		<dataInicio>23/12</dataInicio>
+
+		<dataFim>19/01</dataFim>
+
+		<signoNome>Capricornio</signoNome>
+
+		<descricao>Elemento: Terra (Sensatez e Praticidade), Carcterística: Determinação</descricao>
+
+	</signo>
+
+	<signo>
+
+		<dataInicio>20/01</dataInicio>
+
+		<dataFim>18/02</dataFim>
+
+		<signoNome>Aquario</signoNome>
+
+		<descricao>Elemento: Ar (Razão e Objetividade), Carcterística: Independência</descricao>
+
+	</signo>
+
+	<signo>
+
+		<dataInicio>19/02</dataInicio>
+
+		<dataFim>20/03</dataFim>
+
+		<signoNome>Peixes</signoNome>
+
+		<descricao>Elemento: Àgua (Emoção e Misticismo), Carcterística: Intuição</descricao>
+
+	</signo>
+
+</signos>
